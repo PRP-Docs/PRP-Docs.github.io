@@ -2,14 +2,14 @@
 
 > This is all the offical server documentation and information for Springfield Roleplay. Please use the selections on the side to select the different documents.
 
-- [Welcome to Springfield Roleplay!](https://SRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
+- [Welcome to Springfield Roleplay!](https://PRP-Docs.github.io/index.md): Welcome to Springfield Roleplay!
 
 ## Guidelines
 
-- [Community Guidelines](https://SRP-Docs.github.io/guidelines/community-guidelines.md): Below you will find our Discord Community Guidelines. Please be sure to read them carefully to avoid punishments, if you have any questions please open a ticket via our Discord server.
-- [In Game Guidelines](https://SRP-Docs.github.io/guidelines/in-game-guidelines.md): Below you will find our in-game guidelines. Please be sure to read them carefully to avoid punishments, if you have any questions please open a ticket.
+- [Community Guidelines](https://PRP-Docs.github.io/guidelines/community-guidelines.md): Below you will find our Discord Community Guidelines. Please be sure to read them carefully to avoid punishments, if you have any questions please open a ticket via our Discord server.
+- [In Game Guidelines](https://PRP-Docs.github.io/guidelines/in-game-guidelines.md): Below you will find our in-game guidelines. Please be sure to read them carefully to avoid punishments, if you have any questions please open a ticket.
 
 ## Information
 
-- [FAQs](https://SRP-Docs.github.io/information/faqs.md): Coming Soon...
-- [Partnership FAQs](https://SRP-Docs.github.io/information/partnership-faqs.md): Coming Soon...
+- [FAQs](https://PRP-Docs.github.io/information/faqs.md): Coming Soon...
+- [Partnership FAQs](https://PRP-Docs.github.io/information/partnership-faqs.md): Coming Soon...
