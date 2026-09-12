@@ -2,6 +2,6 @@
 label: Internal Affairs Guide
 visibility: protected
 ---
-# Springfield Roleplay
+# Perth Roleplay
 ---
 ## Internal Affairs Guide
