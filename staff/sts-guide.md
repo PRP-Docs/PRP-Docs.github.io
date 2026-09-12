@@ -1,4 +1,4 @@
-# Springfield Roleplay
+# Perth Roleplay
 ---
 ## STS Guide
 ---
@@ -6,7 +6,7 @@
 - There must be at least 2 other staff members online;
 - You must have permission from the Directive Team+;
 - You must remain professional throughout the whole STS;
-- Set up the STS on Maple Street, the Sheriff Station or Highway 55;
+- Set up the STS at the Sheriff Station;
 - If required use "!clear" before sending commands;
 - Wait at least 30-45 seconds between messages.
 
@@ -26,7 +26,7 @@
 :bring all (x2) OR :load others (x1) + :bring all (x1)
 
 >>> Start
-:m Hello and welcome to this STS at Springfield Roleplay. Please remain present and still until instructed to move.
+:m Hello and welcome to this STS at Perth Roleplay. Please remain present and still until instructed to move.
 
 >>> AFK
 :m Our Staff here at SRP have noticed a large amount of rule breaking within the server, therefore have decided to host this STS. If you go AFK at any time you will be kicked.
@@ -86,7 +86,7 @@
 :m The avatar check is now complete. 
 
 >>> STS Complete
-:m The STS is now complete. Once loaded you can return to Springfield and continue your roleplays. Enjoy!
+:m The STS is now complete. Once loaded you can return to your roleplays. Enjoy!
 
 >>> Load All
 :load all
