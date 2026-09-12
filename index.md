@@ -1,10 +1,10 @@
-# Welcome to Springfield Roleplay! 
+# Welcome to Perth Roleplay! 
 
 ---
 
 ## What is this?
 
-This is all the offical server documentation and information for Springfield Roleplay. Please use the selections on the side to select the different documents. If you have any questions please don't hesitate to open a ticket.
+This is all the offical server documentation and information for Perth Roleplay. Please use the selections on the side to select the different documents. If you have any questions please don't hesitate to open a ticket.
 
 ---
 
