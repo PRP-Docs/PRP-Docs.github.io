@@ -100,8 +100,8 @@ Once all players have been loaded, please head to Melonly Moderator Panel > Acti
 
 ---
 ## Credits
-monkey169 - Founder
+monkey169 - Director
 
-zorbloxxy1 - Co-Founder
+zorbloxxy1 - Deputy Director
 
-TBA - Founder Assistant
+TBA - Assistant Director
