@@ -145,8 +145,7 @@ Trial Moderator
 
 Rank                 | Commands
 ---                  | ---
-Ownership            | All commands
-Directorship         | All, except admin
+Directorship         | All Commands
 Community Leadership | All, except mod, admin & ban
 Management           | PM, refresh (Anyone with permission)
 Internal Affairs     | PM, refresh (Anyone with permission)
@@ -171,8 +170,8 @@ N/A                  | Member Disrespect | N/A                  | N/A
 
 ---
 ## Credits
-monkey169 - Founder
+monkey169 - Director
 
-zorbloxxy1 - Co-Founder
+zorbloxxy1 - Deputy Director
 
-TBA - Founder Assistant
+TBA - Assistant Director
