@@ -33,18 +33,6 @@ We have the right to terminate you from your staff position if you break any rul
 ---
 ## Section 2
 ### Chain of Command
-Foundership
-
-————————————
-
-Founder
-
-Co-Founder
-
-Founder Assistant
-
-————————————
-
 Directorship  
 
 ————————————
